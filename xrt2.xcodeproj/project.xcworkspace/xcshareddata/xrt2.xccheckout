@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5563908D-7BD1-4F5E-93B1-7A152FAAD25C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>xrt2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2DAE622E303D5ED6214C351D8E2F53B2F32BFC9A</key>
+		<string>https://github.com/ielemin/xrt2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xrt2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2DAE622E303D5ED6214C351D8E2F53B2F32BFC9A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ielemin/xrt2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2DAE622E303D5ED6214C351D8E2F53B2F32BFC9A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DAE622E303D5ED6214C351D8E2F53B2F32BFC9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xrt2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
