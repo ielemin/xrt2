@@ -32,7 +32,7 @@
 		7A2F2FB51A6FEC320006CCC9 /* string_core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = string_core.h; path = string/string_core.h; sourceTree = "<group>"; };
 		7A2F2FB71A6FFE240006CCC9 /* myList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = myList.cpp; sourceTree = "<group>"; };
 		7A2F2FB81A6FFE240006CCC9 /* myList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myList.h; sourceTree = "<group>"; };
-		7AFE091B1A4D9C17007B742F /* xrt2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = xrt2; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AFE091B1A4D9C17007B742F /* xrt2 */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "compiled.mach-o.executable"; path = xrt2; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AFE091E1A4D9C17007B742F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
