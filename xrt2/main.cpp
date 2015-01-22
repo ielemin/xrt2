@@ -3,7 +3,7 @@
 #include "myList.cpp"
 
 // Challenge specifications
-const string dataDirectoryName ="/users/adrien/Documents/dev/code/Cpp/xrt/xrt/data";
+const string dataDirectoryName ="/users/adrien/Documents/dev/code/Cpp/xrt2/xrt2/data";
 const string csvDelimiter  =",";
 
 // Function declarations
